@@ -1,534 +1,610 @@
 [
   {
-    "type": "전공\n기초",
     "subject_code": "AMTH1001",
     "subject_name": "미분방정식",
     "credit": "3",
-    "target_grade": "1"
+    "target_grade": "1",
+    "type_number": "11",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n기초",
     "subject_code": "AMTH1004",
     "subject_name": "선형대수",
     "credit": "3",
-    "target_grade": "1"
+    "target_grade": "1",
+    "type_number": "11",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n기초",
     "subject_code": "AMTH1009",
     "subject_name": "미분적분학",
     "credit": "3",
-    "target_grade": "1"
+    "target_grade": "1",
+    "type_number": "11",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n기초",
     "subject_code": "EE211",
     "subject_name": "확률및랜덤변수",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "11",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "CSE103",
     "subject_name": "객체지향프로그래밍",
     "credit": "3",
-    "target_grade": "1"
+    "target_grade": "1",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "CSE203",
     "subject_name": "컴퓨터구조",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "CSE204",
     "subject_name": "자료구조",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "CSE301",
     "subject_name": "운영체제",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "CSE302",
     "subject_name": "컴퓨터네트워크",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "CSE304",
     "subject_name": "알고리즘",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "CSE305",
     "subject_name": "데이터베이스",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "CSE327",
     "subject_name": "소프트웨어공학",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "CSE403",
     "subject_name": "졸업논문(컴퓨터공학)",
     "credit": "0",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "CSE405",
     "subject_name": "졸업프로젝트",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "CSE406",
     "subject_name": "캡스톤디자인",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "EE209",
     "subject_name": "논리회로",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "SWCON104",
     "subject_name": "웹/파이선프로그래밍",
     "credit": "3",
-    "target_grade": "1"
+    "target_grade": "1",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "SWCON201",
     "subject_name": "오픈소스SW개발방법및도구",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n필수",
     "subject_code": "SWCON253",
     "subject_name": "기계학습",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "04",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "AI1002",
     "subject_name": "인공지능프로그래밍",
     "credit": "3",
-    "target_grade": "1"
+    "target_grade": "1",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "AI3001",
     "subject_name": "고급딥러닝",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "AI3004",
     "subject_name": "빅데이터마이닝",
     "credit": "3",
-    "target_grade": "3-4"
+    "target_grade": "3-4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE104",
     "subject_name": "실감미디어컴퓨팅기초",
     "credit": "3",
-    "target_grade": "1"
+    "target_grade": "1",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE201",
     "subject_name": "이산구조",
     "credit": "3",
-    "target_grade": "1"
+    "target_grade": "1",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE224",
     "subject_name": "UI/UX프로그래밍",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE322",
     "subject_name": "컴파일러",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE324",
     "subject_name": "메타버스시스템",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE328",
     "subject_name": "프로그래밍언어론",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE330",
     "subject_name": "SW스타트업비즈니스",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE331",
     "subject_name": "딥러닝",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE332",
     "subject_name": "리눅스시스템프로그래밍",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE334",
     "subject_name": "SW스타트업프로젝트",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE335",
     "subject_name": "클라우드컴퓨팅",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE340",
     "subject_name": "실전기계학습",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE4100",
     "subject_name": "블록체인프로젝트",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE423",
     "subject_name": "정보보호",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE426",
     "subject_name": "영상처리",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE428",
     "subject_name": "컴퓨터그래픽스",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE430",
     "subject_name": "메타버스테이터처리",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE431",
     "subject_name": "인간-컴퓨터상호작용",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE434",
     "subject_name": "빅데이터프로그래밍",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE436",
     "subject_name": "빅데이터프로젝트",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE437",
     "subject_name": "클라우드프로젝트",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE438",
     "subject_name": "최신기술콜로키움1",
     "credit": "2",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE439",
     "subject_name": "AIoT디지털시스템",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE440",
     "subject_name": "AIoT소프트웨어",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE441",
     "subject_name": "컴퓨터비젼",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE442",
     "subject_name": "블록체인",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE443",
     "subject_name": "AI네트워킹",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE444",
     "subject_name": "AIoT네트워크",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE450",
     "subject_name": "모바일/웹서비스프로그래밍",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE451",
     "subject_name": "모바일/웹서비스프로젝트",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE452",
     "subject_name": "소프트웨어보안",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE453",
     "subject_name": "웹보안",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE495",
     "subject_name": "독립심화학습1(컴퓨터공학과)",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE496",
     "subject_name": "연구연수활동1",
     "credit": "1",
-    "target_grade": "2-4"
+    "target_grade": "2-4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE497",
     "subject_name": "연구연수활동2",
     "credit": "1",
-    "target_grade": "2-4"
+    "target_grade": "2-4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "CSE499",
     "subject_name": "독립심화학습2(컴퓨터공학과)",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "EE210",
     "subject_name": "신호와시스템",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON103",
     "subject_name": "디자인적사고",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON211",
     "subject_name": "게임프로그래밍입문",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON212",
     "subject_name": "게인엔진기초",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON221",
     "subject_name": "마이크로서비스프로그래밍",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON254",
     "subject_name": "회로와신호",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON302",
     "subject_name": "최신기술콜로키움2",
     "credit": "2",
-    "target_grade": "2-4"
+    "target_grade": "2-4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON311",
     "subject_name": "게임그래픽프로그래밍",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON312",
     "subject_name": "게임인터랙티브테크놀로지",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON313",
     "subject_name": "가상/증강현실이론및실습",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON331",
     "subject_name": "로봇프로그래밍",
     "credit": "3",
-    "target_grade": "3-4"
+    "target_grade": "3-4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON366",
     "subject_name": "3D데이터처리",
     "credit": "3",
-    "target_grade": "3"
+    "target_grade": "3",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON370",
     "subject_name": "풀스택서비스프로그래밍",
     "credit": "3",
-    "target_grade": "3-4"
+    "target_grade": "3-4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON491",
     "subject_name": "인공지능과게임프로그래밍",
     "credit": "3",
-    "target_grade": "3-4"
+    "target_grade": "3-4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON492",
     "subject_name": "풀스택서비스네트워킹",
     "credit": "3",
-    "target_grade": "2-4"
+    "target_grade": "2-4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON493",
     "subject_name": "자연언어처리",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON496",
     "subject_name": "소프트웨어융합보안",
     "credit": "3",
-    "target_grade": "2"
+    "target_grade": "2",
+    "type_number": "05",
+    "subject_year": "2025"
   },
   {
-    "type": "전공\n선택",
     "subject_code": "SWCON495",
     "subject_name": "강화학습",
     "credit": "3",
-    "target_grade": "4"
+    "target_grade": "4",
+    "type_number": "05",
+    "subject_year": "2025"
   }
 ]

@@ -1,5 +1,7 @@
 [
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "EE211-00",
     "title": "확률및랜덤변수(컴퓨터공학과)",
@@ -8,11 +10,14 @@
     "professor": "송주빈",
     "credit": "3.0",
     "time_place": "월 15:00-16:15 (전220)\n수 15:00-16:15 (전220)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=004463&p_code=EE21100&p_subjt=EE211&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724051679"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE304-00",
     "title": "알고리즘",
@@ -21,11 +26,14 @@
     "professor": "한치근",
     "credit": "3.0",
     "time_place": "월 13:00-14:50 (B01)\n수 13:00-14:50 (B01)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:자료구조 / 본인 노트북으로 실습(필요시 대여 가능)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=006189&p_code=CSE30400&p_subjt=CSE304&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724053691"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON104-00",
     "title": "웹/파이선프로그래밍(컴퓨터공학과)",
@@ -35,10 +43,13 @@
     "credit": "3.0",
     "time_place": "월 13:00-14:50 (전205)\n수 13:00-14:50 (전205)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "본인 노트북으로 실습 (필요시 대여 가능)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=011186&p_code=SWCON10400&p_subjt=SWCON104&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724055719"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE302-00",
     "title": "컴퓨터네트워크",
@@ -48,10 +59,13 @@
     "credit": "3.0",
     "time_place": "월 15:00-16:15 (전136)\n수 15:00-16:15 (전136)",
     "language": "영어(부분)",
-    "note": "",
-    "syllabus_url": ""
+    "is_english": true,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=011186&p_code=CSE30200&p_subjt=CSE302&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724057724"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON221-00",
     "title": "마이크로서비스프로그래밍(컴퓨터공학과)",
@@ -61,10 +75,13 @@
     "credit": "3.0",
     "time_place": "월 17:00-18:50 (B09)\n수 17:00-18:50 (B09)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "본인 노트북으로 실습 (필요시 대여 가능)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=011186&p_code=SWCON22100&p_subjt=SWCON221&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724059760"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON370-00",
     "title": "풀스택서비스프로그래밍(컴퓨터공학과)",
@@ -73,11 +90,14 @@
     "professor": "이성원",
     "credit": "3.0",
     "time_place": "화 13:00-14:50 (B05)\n목 13:00-14:50 (B05)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "디자인소프트웨어 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=011186&p_code=SWCON37000&p_subjt=SWCON370&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724061776"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON492-00",
     "title": "풀스택서비스네트워킹(컴퓨터공학과)",
@@ -86,11 +106,14 @@
     "professor": "이성원",
     "credit": "3.0",
     "time_place": "화 15:00-16:15 (전136)\n목 15:00-16:15 (전136)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "XR입출력기술 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=011186&p_code=SWCON49200&p_subjt=SWCON492&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724063778"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON201-00",
     "title": "오픈소스SW개발방법및도구(컴퓨터공학과)",
@@ -100,10 +123,13 @@
     "credit": "3.0",
     "time_place": "화 17:00-18:15 (전205)\n목 17:00-18:15 (전205)",
     "language": "영어(부분)",
-    "note": "",
-    "syllabus_url": ""
+    "is_english": true,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=011186&p_code=SWCON20100&p_subjt=SWCON201&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724065809"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "EE211-05",
     "title": "확률및랜덤변수(컴퓨터공학과)",
@@ -112,11 +138,14 @@
     "professor": "홍인기",
     "credit": "3.0",
     "time_place": "화 15:00-16:15 (전220)\n목 15:00-16:15 (전220)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=014891&p_code=EE21105&p_subjt=EE211&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724067830"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE103-01",
     "title": "객체지향프로그래밍",
@@ -125,11 +154,14 @@
     "professor": "이대호",
     "credit": "3.0",
     "time_place": "- (온라인)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "소프트웨어융합대학/전자공학과 전공(다전공 포함) 학생은 수강 불가, 시험은 7주차(4월 21일)/15주차(6월16일) 월요일 18:30~20:00 대면으로 전자정보관에서 진행 (본인 노트북으로 실시, 필요시 노트북 대여 가능, 타 과목과 시험이 중복되어도 시간 변동 없음), 실감미디어기술 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=015184&p_code=CSE10301&p_subjt=CSE103&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724069868"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON311-00",
     "title": "게임그래픽프로그래밍(컴퓨터공학과)",
@@ -138,11 +170,14 @@
     "professor": "이대호",
     "credit": "3.0",
     "time_place": "월 12:00-13:50 (B06)\n수 12:00-13:50 (B06)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "메타버스 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=015184&p_code=SWCON31100&p_subjt=SWCON311&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724071885"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE103-00",
     "title": "객체지향프로그래밍",
@@ -151,11 +186,14 @@
     "professor": "이대호",
     "credit": "3.0",
     "time_place": "월 16:30-18:20 (전205)\n수 16:30-18:20 (전205)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "본인 노트북으로 실습 (필요시 대여 가능), 실감미디어기술 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=015184&p_code=CSE10300&p_subjt=CSE103&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724073891"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE302-02",
     "title": "컴퓨터네트워크",
@@ -164,11 +202,14 @@
     "professor": "유인태",
     "credit": "3.0",
     "time_place": "월 13:30-14:45 (전137)\n수 13:30-14:45 (전137)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=015327&p_code=CSE30202&p_subjt=CSE302&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724075091"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "EE211-01",
     "title": "확률및랜덤변수(컴퓨터공학과)",
@@ -177,11 +218,14 @@
     "professor": "이계산",
     "credit": "3.0",
     "time_place": "화 15:00-16:15 (전226)\n목 15:00-16:15 (전226)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=021795&p_code=EE21101&p_subjt=EE211&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724075910"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "AI3004-00",
     "title": "빅데이터마이닝(컴퓨터공학과)",
@@ -190,11 +234,14 @@
     "professor": "이영구",
     "credit": "3.0",
     "time_place": "월 13:30-14:45 (전103)\n수 13:30-14:45 (전103)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "빅데이터분석 마이크로디그리 과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=022334&p_code=AI300400&p_subjt=AI3004&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724076677"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE305-00",
     "title": "데이터베이스",
@@ -203,11 +250,14 @@
     "professor": "이영구",
     "credit": "3.0",
     "time_place": "월 15:00-16:15 (B07)\n수 15:00-16:15 (B07)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "본인 노트북으로 실습 (필요시 대여 가능)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=022334&p_code=CSE30500&p_subjt=CSE305&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724077475"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE406-02",
     "title": "캡스톤디자인",
@@ -216,11 +266,14 @@
     "professor": "이영구",
     "credit": "3.0",
     "time_place": "월 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:디자인적사고 / 3학년 2학기부터 수강허용 OT 개별교수님 안내에 따름",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=022334&p_code=CSE40602&p_subjt=CSE406&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724078244"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE495-04",
     "title": "독립심화학습1(컴퓨터공학)",
@@ -229,11 +282,14 @@
     "professor": "이영구",
     "credit": "3.0",
     "time_place": "토 09:00-11:45 ()",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(박*우)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=022334&p_code=CSE49504&p_subjt=CSE495&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724079064"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "EE211-02",
     "title": "확률및랜덤변수(컴퓨터공학과)",
@@ -242,11 +298,14 @@
     "professor": "김윤희",
     "credit": "3.0",
     "time_place": "월 15:00-16:15 (전226)\n수 15:00-16:15 (전226)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=023209&p_code=EE21102&p_subjt=EE211&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724080352"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE406-03",
     "title": "캡스톤디자인",
@@ -255,11 +314,14 @@
     "professor": "허의남",
     "credit": "3.0",
     "time_place": "월 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:디자인적사고 / 3학년 2학기부터 수강허용 OT 개별교수님 안내에 따름",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=024580&p_code=CSE40603&p_subjt=CSE406&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724081390"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE496-07",
     "title": "연구연수활동1(컴퓨터공학)",
@@ -268,11 +330,14 @@
     "professor": "허의남",
     "credit": "1.0",
     "time_place": "토 09:00-10:50 ()",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(우*진)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=024580&p_code=CSE49607&p_subjt=CSE496&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724082423"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE443-00",
     "title": "AI네트워킹",
@@ -281,11 +346,14 @@
     "professor": "허의남",
     "credit": "3.0",
     "time_place": "화 15:00-16:15 (B06)\n목 15:00-16:15 (B06)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=024580&p_code=CSE44300&p_subjt=CSE443&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724083424"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "EE210-00",
     "title": "신호와시스템(컴퓨터공학과)",
@@ -294,11 +362,14 @@
     "professor": "김규헌",
     "credit": "3.0",
     "time_place": "월 12:00-13:15 (전220)\n수 12:00-13:15 (전220)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=025249&p_code=EE21000&p_subjt=EE210&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724084541"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "EE209-02",
     "title": "논리회로(컴퓨터공학과)",
@@ -307,11 +378,14 @@
     "professor": "유재수",
     "credit": "3.0",
     "time_place": "월 16:30-17:45 (전226)\n수 16:30-17:45 (전226)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=026088&p_code=EE20902&p_subjt=EE209&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724085502"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE204-00",
     "title": "자료구조",
@@ -320,11 +394,14 @@
     "professor": "이상훈",
     "credit": "3.0",
     "time_place": "월 12:00-13:50 (전136)\n수 12:00-13:50 (전136)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:객체지향프로그래밍/노트북으로 실습, Visual Studio 환경 설정 필수",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=033491&p_code=CSE20400&p_subjt=CSE204&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724086423"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE301-01",
     "title": "운영체제",
@@ -333,11 +410,14 @@
     "professor": "김범석",
     "credit": "3.0",
     "time_place": "월 10:30-11:45 (B09)\n수 10:30-11:45 (B09)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=033495&p_code=CSE30101&p_subjt=CSE301&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724087435"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE450-00",
     "title": "모바일/웹서비스프로그래밍",
@@ -346,11 +426,14 @@
     "professor": "안기옥",
     "credit": "3.0",
     "time_place": "화 15:00-17:45 (B05)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "산학필수 과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=037046&p_code=CSE45000&p_subjt=CSE450&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724088384"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE224-00",
     "title": "UI/UX프로그래밍",
@@ -360,10 +443,13 @@
     "credit": "3.0",
     "time_place": "금 13:30-16:15 (B07)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "실감미디어기술 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=038168&p_code=CSE22400&p_subjt=CSE224&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724089527"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE406-05",
     "title": "캡스톤디자인",
@@ -372,11 +458,14 @@
     "professor": "전석희",
     "credit": "3.0",
     "time_place": "월 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:디자인적사고 / 3학년 2학기부터 수강허용 OT 개별교수님 안내에 따름",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=038168&p_code=CSE40605&p_subjt=CSE406&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724090444"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON103-00",
     "title": "디자인적사고(컴퓨터공학과)",
@@ -385,11 +474,14 @@
     "professor": "이승규",
     "credit": "3.0",
     "time_place": "금 09:00-12:50 (전211-1)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "디자인소프트웨어 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=039542&p_code=SWCON10300&p_subjt=SWCON103&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724091225"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE406-01",
     "title": "캡스톤디자인",
@@ -398,11 +490,14 @@
     "professor": "이승규",
     "credit": "3.0",
     "time_place": "월 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:디자인적사고 / 3학년 2학기부터 수강허용 OT 개별교수님 안내에 따름",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=039542&p_code=CSE40601&p_subjt=CSE406&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724092067"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE428-00",
     "title": "컴퓨터그래픽스",
@@ -411,11 +506,14 @@
     "professor": "이승규",
     "credit": "3.0",
     "time_place": "화 10:30-11:45 (전309)\n목 10:30-11:45 (전309)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "실감미디어기술 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=039542&p_code=CSE42800&p_subjt=CSE428&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724092818"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE406-04",
     "title": "캡스톤디자인",
@@ -424,11 +522,14 @@
     "professor": "강선무",
     "credit": "3.0",
     "time_place": "월 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:디자인적사고 / 3학년 2학기부터 수강허용 OT 개별교수님 안내에 따름",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=043181&p_code=CSE40604&p_subjt=CSE406&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724094538"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE438-00",
     "title": "최신기술콜로키움1",
@@ -437,11 +538,14 @@
     "professor": "진성욱",
     "credit": "2.0",
     "time_place": "금 10:00-11:50 (전205)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "산학필수 과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=045483&p_code=CSE43800&p_subjt=CSE438&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724096548"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE406-06",
     "title": "캡스톤디자인",
@@ -450,63 +554,14 @@
     "professor": "배성호",
     "credit": "3.0",
     "time_place": "월 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:디자인적사고 / 3학년 2학기부터 수강허용 OT 개별교수님 안내에 따름",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=047387&p_code=CSE40606&p_subjt=CSE406&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724098569"
   },
   {
-    "campus": "국제",
-    "course_no": "CSE496-00",
-    "title": "연구연수활동1(컴퓨터공학)",
-    "target_year": "4",
-    "capacity": "1",
-    "professor": "배성호",
-    "credit": "1.0",
-    "time_place": "토 09:00-10:50 ()",
-    "language": "",
-    "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(엄*진)",
-    "syllabus_url": ""
-  },
-  {
-    "campus": "국제",
-    "course_no": "CSE496-05",
-    "title": "연구연수활동1(컴퓨터공학)",
-    "target_year": "4",
-    "capacity": "1",
-    "professor": "배성호",
-    "credit": "1.0",
-    "time_place": "토 09:00-10:50 ()",
-    "language": "",
-    "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(김*건)",
-    "syllabus_url": ""
-  },
-  {
-    "campus": "국제",
-    "course_no": "CSE496-04",
-    "title": "연구연수활동1(컴퓨터공학)",
-    "target_year": "4",
-    "capacity": "1",
-    "professor": "배성호",
-    "credit": "1.0",
-    "time_place": "토 09:00-10:50 ()",
-    "language": "",
-    "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(김*범)",
-    "syllabus_url": ""
-  },
-  {
-    "campus": "국제",
-    "course_no": "CSE496-03",
-    "title": "연구연수활동1(컴퓨터공학)",
-    "target_year": "4",
-    "capacity": "1",
-    "professor": "배성호",
-    "credit": "1.0",
-    "time_place": "토 09:00-10:50 ()",
-    "language": "",
-    "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(이*수)",
-    "syllabus_url": ""
-  },
-  {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE496-02",
     "title": "연구연수활동1(컴퓨터공학)",
@@ -515,11 +570,78 @@
     "professor": "배성호",
     "credit": "1.0",
     "time_place": "토 09:00-10:50 ()",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(이*성)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=047387&p_code=CSE49602&p_subjt=CSE496&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724100583"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
+    "campus": "국제",
+    "course_no": "CSE496-04",
+    "title": "연구연수활동1(컴퓨터공학)",
+    "target_year": "4",
+    "capacity": "1",
+    "professor": "배성호",
+    "credit": "1.0",
+    "time_place": "토 09:00-10:50 ()",
+    "language": null,
+    "is_english": false,
+    "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(김*범)",
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=047387&p_code=CSE49604&p_subjt=CSE496&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724102601"
+  },
+  {
+    "lecture_year": 2025,
+    "semester": 1,
+    "campus": "국제",
+    "course_no": "CSE496-05",
+    "title": "연구연수활동1(컴퓨터공학)",
+    "target_year": "4",
+    "capacity": "1",
+    "professor": "배성호",
+    "credit": "1.0",
+    "time_place": "토 09:00-10:50 ()",
+    "language": null,
+    "is_english": false,
+    "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(김*건)",
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=047387&p_code=CSE49605&p_subjt=CSE496&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724104634"
+  },
+  {
+    "lecture_year": 2025,
+    "semester": 1,
+    "campus": "국제",
+    "course_no": "CSE496-00",
+    "title": "연구연수활동1(컴퓨터공학)",
+    "target_year": "4",
+    "capacity": "1",
+    "professor": "배성호",
+    "credit": "1.0",
+    "time_place": "토 09:00-10:50 ()",
+    "language": null,
+    "is_english": false,
+    "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(엄*진)",
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=047387&p_code=CSE49600&p_subjt=CSE496&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724106639"
+  },
+  {
+    "lecture_year": 2025,
+    "semester": 1,
+    "campus": "국제",
+    "course_no": "CSE496-03",
+    "title": "연구연수활동1(컴퓨터공학)",
+    "target_year": "4",
+    "capacity": "1",
+    "professor": "배성호",
+    "credit": "1.0",
+    "time_place": "토 09:00-10:50 ()",
+    "language": null,
+    "is_english": false,
+    "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(이*수)",
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=047387&p_code=CSE49603&p_subjt=CSE496&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724108682"
+  },
+  {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE495-07",
     "title": "독립심화학습1(컴퓨터공학)",
@@ -528,11 +650,14 @@
     "professor": "배성호",
     "credit": "3.0",
     "time_place": "토 09:00-11:45 ()",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(LU*)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=047387&p_code=CSE49507&p_subjt=CSE495&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724110707"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE495-06",
     "title": "독립심화학습1(컴퓨터공학)",
@@ -541,11 +666,14 @@
     "professor": "배성호",
     "credit": "3.0",
     "time_place": "토 12:00-14:45 ()",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(김*범)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=047387&p_code=CSE49506&p_subjt=CSE495&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724112724"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE495-01",
     "title": "독립심화학습1(컴퓨터공학)",
@@ -554,11 +682,14 @@
     "professor": "배성호",
     "credit": "3.0",
     "time_place": "토 12:00-14:45 ()",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(엄*진)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=047387&p_code=CSE49501&p_subjt=CSE495&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724114731"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE495-05",
     "title": "독립심화학습1(컴퓨터공학)",
@@ -567,11 +698,14 @@
     "professor": "배성호",
     "credit": "3.0",
     "time_place": "토 12:00-14:45 ()",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(이*수)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=047387&p_code=CSE49505&p_subjt=CSE495&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724116750"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE331-00",
     "title": "딥러닝",
@@ -581,10 +715,13 @@
     "credit": "3.0",
     "time_place": "화 10:30-11:45 (전136)\n목 10:30-11:45 (전136)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "인공지능이론 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=047387&p_code=CSE33100&p_subjt=CSE331&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724118763"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE335-00",
     "title": "클라우드컴퓨팅",
@@ -593,11 +730,14 @@
     "professor": "김재홍",
     "credit": "3.0",
     "time_place": "목 09:00-11:45 (글405)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "산학필수 과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=047818&p_code=CSE33500&p_subjt=CSE335&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724119587"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE302-01",
     "title": "컴퓨터네트워크",
@@ -606,11 +746,14 @@
     "professor": "김정윤",
     "credit": "3.0",
     "time_place": "금 09:00-11:45 (전137)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "본인 노트북으로 실습 (필요시 대여 가능)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=049571&p_code=CSE30201&p_subjt=CSE302&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724120197"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE444-00",
     "title": "AIoT네트워크",
@@ -619,11 +762,14 @@
     "professor": "김정윤",
     "credit": "3.0",
     "time_place": "금 13:30-16:15 (137)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=049571&p_code=CSE44400&p_subjt=CSE444&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724120784"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE406-00",
     "title": "캡스톤디자인",
@@ -632,11 +778,14 @@
     "professor": "김휘용",
     "credit": "3.0",
     "time_place": "월 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:디자인적사고 / 3학년 2학기부터 수강허용 OT 개별교수님 안내에 따름",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=052980&p_code=CSE40600&p_subjt=CSE406&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724121565"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE495-03",
     "title": "독립심화학습1(컴퓨터공학)",
@@ -645,11 +794,14 @@
     "professor": "김휘용",
     "credit": "3.0",
     "time_place": "토 09:00-11:45 ()",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(김*욱)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=052980&p_code=CSE49503&p_subjt=CSE495&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724122269"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE426-00",
     "title": "영상처리",
@@ -659,10 +811,13 @@
     "credit": "3.0",
     "time_place": "화 13:30-14:45 (전103)\n목 13:30-14:45 (전103)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "XR입출력기술 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=052980&p_code=CSE42600&p_subjt=CSE426&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724122977"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON253-01",
     "title": "기계학습(컴퓨터공학과)",
@@ -672,10 +827,13 @@
     "credit": "3.0",
     "time_place": "화 15:00-16:15 (B09)\n목 15:00-16:15 (B09)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "* 필수 선이수 교과: 웹/파이선프로그래밍, 미적분학, 선형대수 / * 권장 선이수 교과: 확률및랜덤변수, 인공지능수학, 인공지능프로그래밍 / 인공지능이론 마이크로디고리 과목명",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=052980&p_code=SWCON25301&p_subjt=SWCON253&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724123751"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE305-01",
     "title": "데이터베이스",
@@ -684,11 +842,14 @@
     "professor": "김태연",
     "credit": "3.0",
     "time_place": "화 10:30-11:45 (B01)\n목 10:30-11:45 (B01)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "본인 노트북으로 실습 (필요시 대여 가능)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=053197&p_code=CSE30501&p_subjt=CSE305&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724124350"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON253-00",
     "title": "기계학습(컴퓨터공학과)",
@@ -698,10 +859,13 @@
     "credit": "3.0",
     "time_place": "화 10:30-11:45 (B09)\n목 10:30-11:45 (B09)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "* 필수 선이수 교과: 웹/파이선프로그래밍, 미적분학, 선형대수 / * 권장 선이수 교과: 확률및랜덤변수, 인공지능수학, 인공지능프로그래밍 / 인공지능이론 마이크로디고리 과목명",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=054270&p_code=SWCON25300&p_subjt=SWCON253&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724125019"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON366-00",
     "title": "3D데이터처리(컴퓨터공학과)",
@@ -711,10 +875,13 @@
     "credit": "3.0",
     "time_place": "월 12:00-13:15 (전137)\n수 12:00-13:15 (전137)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "본인 노트북으로 실습 (필요시 대여 가능) / 로봇소프트웨어 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=055078&p_code=SWCON36600&p_subjt=SWCON366&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724125684"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON495-00",
     "title": "강화학습(컴퓨터공학과)",
@@ -724,10 +891,13 @@
     "credit": "3.0",
     "time_place": "월 13:30-14:45 (B05)\n수 13:30-14:45 (B05)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "본인 노트북으로 실습 (필요시 대여 가능)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=055078&p_code=SWCON49500&p_subjt=SWCON495&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724126330"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE403-00",
     "title": "졸업논문(컴퓨터공학전공)",
@@ -736,11 +906,14 @@
     "professor": "김성태",
     "credit": ".0",
     "time_place": "- (전205)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "4학년 2학기부터만 수강가능, 졸업프로젝트 D-이상 획득 필요",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=055392&p_code=CSE40300&p_subjt=CSE403&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724126939"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE203-02",
     "title": "컴퓨터구조",
@@ -750,10 +923,13 @@
     "credit": "3.0",
     "time_place": "금 09:00-11:45 (글405)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "선수과목: 논리회로",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=055392&p_code=CSE20302&p_subjt=CSE203&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724127570"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE405-00",
     "title": "졸업프로젝트",
@@ -762,11 +938,14 @@
     "professor": "김성태",
     "credit": "3.0",
     "time_place": "금 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:캡스톤디자인 / 단일전공이수자만 해당/4학년 1학기부터 수강허용; OT(3/7(금) 19:00~) 및 최종평가(6/13(금) 19:00~) 반드시 참석 필요",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=055392&p_code=CSE40500&p_subjt=CSE405&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724128132"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE406-07",
     "title": "캡스톤디자인",
@@ -775,11 +954,14 @@
     "professor": "김성태",
     "credit": "3.0",
     "time_place": "월 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:디자인적사고 / 3학년 2학기부터 수강허용 OT 개별교수님 안내에 따름",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=055392&p_code=CSE40607&p_subjt=CSE406&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724128803"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE406-09",
     "title": "캡스톤디자인",
@@ -788,11 +970,14 @@
     "professor": "최진우",
     "credit": "3.0",
     "time_place": "월 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:디자인적사고 / 3학년 2학기부터 수강허용 OT 개별교수님 안내에 따름",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=055393&p_code=CSE40609&p_subjt=CSE406&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724129419"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON253-02",
     "title": "기계학습(컴퓨터공학과)",
@@ -802,10 +987,13 @@
     "credit": "3.0",
     "time_place": "화 13:30-14:45 (전136)\n목 13:30-14:45 (전136)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "* 필수 선이수 교과: 웹/파이선프로그래밍, 미적분학, 선형대수 / * 권장 선이수 교과: 확률및랜덤변수, 인공지능수학, 인공지능프로그래밍 / 인공지능이론 마이크로디고리 과목명",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=055393&p_code=SWCON25302&p_subjt=SWCON253&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724130134"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE103-02",
     "title": "객체지향프로그래밍",
@@ -815,10 +1003,13 @@
     "credit": "3.0",
     "time_place": "화 15:00-16:50 (전205)\n목 15:00-16:50 (전205)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "본인 노트북으로 실습 (필요시 대여 가능), 실감미디어기술 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=055393&p_code=CSE10302&p_subjt=CSE103&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724130953"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "EE210-01",
     "title": "신호와시스템(컴퓨터공학과)",
@@ -827,11 +1018,14 @@
     "professor": "정해준",
     "credit": "3.0",
     "time_place": "월 12:00-13:15 (전227)\n수 12:00-13:15 (전227)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=056156&p_code=EE21001&p_subjt=EE210&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724131646"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "EE211-03",
     "title": "확률및랜덤변수(컴퓨터공학과)",
@@ -840,11 +1034,14 @@
     "professor": "최민석",
     "credit": "3.0",
     "time_place": "월 15:00-16:15 (전227)\n수 15:00-16:15 (전227)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=056815&p_code=EE21103&p_subjt=EE211&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724132334"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE104-00",
     "title": "실감미디어컴퓨팅기초",
@@ -853,11 +1050,14 @@
     "professor": "정원수",
     "credit": "3.0",
     "time_place": "- (온라인)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "'웹/파이선프로그래밍' 과목 이수자 신청 불가, 중간(8주차) 기말(16주차) 금요일 09:00~12:00 시험실시, 실감미디어펀더멘털 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=057157&p_code=CSE10400&p_subjt=CSE104&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724133116"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON312-00",
     "title": "게임인터랙티브테크놀로지(컴퓨터공학과)",
@@ -867,10 +1067,13 @@
     "credit": "3.0",
     "time_place": "월 15:00-16:15 (B05)\n수 15:00-16:15 (B05)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "체감기술 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=058521&p_code=SWCON31200&p_subjt=SWCON312&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724133814"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON254-00",
     "title": "회로와신호(컴퓨터공학과)",
@@ -880,10 +1083,13 @@
     "credit": "3.0",
     "time_place": "월 16:30-17:45 (B01)\n수 16:30-17:45 (B01)",
     "language": "영어(부분)",
-    "note": "",
-    "syllabus_url": ""
+    "is_english": true,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=058521&p_code=SWCON25400&p_subjt=SWCON254&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724134415"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON104-01",
     "title": "웹/파이선프로그래밍(컴퓨터공학과)",
@@ -893,10 +1099,13 @@
     "credit": "3.0",
     "time_place": "화 13:00-14:50 (전205)\n목 13:00-14:50 (전205)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "본인 노트북으로 실습 (필요시 대여 가능)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=058523&p_code=SWCON10401&p_subjt=SWCON104&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724135037"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE495-02",
     "title": "독립심화학습1(컴퓨터공학)",
@@ -905,11 +1114,14 @@
     "professor": "고한얼",
     "credit": "3.0",
     "time_place": "토 09:00-11:45 ()",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(임*민)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=058525&p_code=CSE49502&p_subjt=CSE495&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724135803"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE496-01",
     "title": "연구연수활동1(컴퓨터공학)",
@@ -918,11 +1130,14 @@
     "professor": "고한얼",
     "credit": "1.0",
     "time_place": "토 12:00-13:50 ()",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(임*민)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=058525&p_code=CSE49601&p_subjt=CSE496&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724136437"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "EE211-04",
     "title": "확률및랜덤변수(컴퓨터공학과)",
@@ -932,10 +1147,13 @@
     "credit": "3.0",
     "time_place": "화 15:00-16:15 (전211-1)\n목 15:00-16:15 (전211-1)",
     "language": "영어(부분)",
-    "note": "",
-    "syllabus_url": ""
+    "is_english": true,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=058525&p_code=EE21104&p_subjt=EE211&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724137398"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE406-10",
     "title": "캡스톤디자인",
@@ -944,11 +1162,14 @@
     "professor": "김정욱",
     "credit": "3.0",
     "time_place": "월 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:디자인적사고 / 3학년 2학기부터 수강허용 OT 개별교수님 안내에 따름",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=058974&p_code=CSE40610&p_subjt=CSE406&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724138412"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE203-00",
     "title": "컴퓨터구조",
@@ -958,10 +1179,13 @@
     "credit": "3.0",
     "time_place": "화 12:00-13:15 (B09)\n목 12:00-13:15 (B09)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "선수과목: 논리회로",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=058974&p_code=CSE20300&p_subjt=CSE203&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724139452"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE327-00",
     "title": "소프트웨어공학",
@@ -970,11 +1194,14 @@
     "professor": "김정욱",
     "credit": "3.0",
     "time_place": "화 16:30-17:45 (B09)\n목 16:30-17:45 (B09)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=058974&p_code=CSE32700&p_subjt=CSE327&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724140517"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "EE209-00",
     "title": "논리회로(컴퓨터공학과)",
@@ -983,11 +1210,14 @@
     "professor": "정연모",
     "credit": "3.0",
     "time_place": "화 09:00-10:15 (전220)\n목 09:00-10:15 (전220)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=059482&p_code=EE20900&p_subjt=EE209&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724141513"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE406-13",
     "title": "캡스톤디자인",
@@ -996,11 +1226,14 @@
     "professor": "허선영",
     "credit": "3.0",
     "time_place": "월 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:디자인적사고 / 3학년 2학기부터 수강허용 OT 개별교수님 안내에 따름",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=059667&p_code=CSE40613&p_subjt=CSE406&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724142725"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE495-09",
     "title": "독립심화학습1(컴퓨터공학)",
@@ -1009,11 +1242,14 @@
     "professor": "허선영",
     "credit": "3.0",
     "time_place": "토 09:00-11:45 ()",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(김*현)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=059667&p_code=CSE49509&p_subjt=CSE495&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724143661"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE322-00",
     "title": "컴파일러",
@@ -1023,10 +1259,13 @@
     "credit": "3.0",
     "time_place": "화 10:30-11:45 (B06)\n목 10:30-11:45 (B06)",
     "language": "영어(부분)",
-    "note": "",
-    "syllabus_url": ""
+    "is_english": true,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=059667&p_code=CSE32200&p_subjt=CSE322&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724144504"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE301-00",
     "title": "운영체제",
@@ -1036,10 +1275,13 @@
     "credit": "3.0",
     "time_place": "화 13:30-14:45 (B09)\n목 13:30-14:45 (B09)",
     "language": "영어(부분)",
-    "note": "",
-    "syllabus_url": ""
+    "is_english": true,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=059667&p_code=CSE30100&p_subjt=CSE301&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724145299"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "EE210-02",
     "title": "신호와시스템(컴퓨터공학과)",
@@ -1049,10 +1291,13 @@
     "credit": "3.0",
     "time_place": "월 16:30-17:45 (전227)\n수 16:30-17:45 (전227)",
     "language": "영어(부분)",
-    "note": "",
-    "syllabus_url": ""
+    "is_english": true,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=059930&p_code=EE21002&p_subjt=EE210&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724146059"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE423-00",
     "title": "정보보호",
@@ -1062,10 +1307,13 @@
     "credit": "3.0",
     "time_place": "월 15:00-16:15 (B01)\n수 15:00-16:15 (B01)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "웹보안 내용 많이 포함",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=059932&p_code=CSE42300&p_subjt=CSE423&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724147083"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE406-12",
     "title": "캡스톤디자인",
@@ -1074,11 +1322,14 @@
     "professor": "장대희",
     "credit": "3.0",
     "time_place": "월 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:디자인적사고 / 3학년 2학기부터 수강허용 OT 개별교수님 안내에 따름",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=059932&p_code=CSE40612&p_subjt=CSE406&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724148100"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE495-00",
     "title": "독립심화학습1(컴퓨터공학)",
@@ -1087,11 +1338,14 @@
     "professor": "장대희",
     "credit": "3.0",
     "time_place": "토 09:00-11:45 ()",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(윤*찬)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=059932&p_code=CSE49500&p_subjt=CSE495&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724149025"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE204-02",
     "title": "자료구조",
@@ -1101,10 +1355,13 @@
     "credit": "3.0",
     "time_place": "월 10:00-11:50 (전205)\n수 10:00-11:50 (전205)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "객체지향프로그래밍 선이수 필요 / 본인 노트북으로 실습 (필요시 대여 가능)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=061420&p_code=CSE20402&p_subjt=CSE204&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724149760"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON496-00",
     "title": "소프트웨어융합보안(컴퓨터공학과)",
@@ -1114,10 +1371,13 @@
     "credit": "3.0",
     "time_place": "월 12:00-13:15 (전103)\n수 12:00-13:15 (전103)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "운영체제, 컴퓨터구조 선이수 권장",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=061420&p_code=SWCON49600&p_subjt=SWCON496&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724150563"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON104-02",
     "title": "웹/파이선프로그래밍(컴퓨터공학과)",
@@ -1127,10 +1387,13 @@
     "credit": "3.0",
     "time_place": "화 10:30-12:20 (멀112)\n목 10:30-12:20 (멀112)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "본인 노트북으로 실습 (필요시 대여 가능)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=061421&p_code=SWCON10402&p_subjt=SWCON104&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724151326"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON491-00",
     "title": "인공지능과게임프로그래밍(컴퓨터공학과)",
@@ -1140,10 +1403,13 @@
     "credit": "3.0",
     "time_place": "화 13:30-14:45 (멀112)\n목 13:30-14:45 (멀112)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "본인 노트북으로 실습 (필요시 대여 가능) / 선수과목: 객체지향프로그래밍&선형대수",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=061421&p_code=SWCON49100&p_subjt=SWCON491&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724152247"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "SWCON103-01",
     "title": "디자인적사고(컴퓨터공학과)",
@@ -1152,11 +1418,14 @@
     "professor": "조명아",
     "credit": "3.0",
     "time_place": "화 15:00-18:50 (멀112)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "본인 노트북으로 실습 (필요시 대여 가능) / 디자인소프트웨어 마이크로디그리 교과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=061421&p_code=SWCON10301&p_subjt=SWCON103&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724153042"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE4100-00",
     "title": "블록체인프로젝트",
@@ -1165,11 +1434,14 @@
     "professor": "김정현",
     "credit": "3.0",
     "time_place": "금 15:00-17:45 (B06)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "산학필수 과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=061910&p_code=CSE410000&p_subjt=CSE4100&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724153808"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE330-00",
     "title": "SW스타트업비즈니스",
@@ -1178,11 +1450,14 @@
     "professor": "이동현",
     "credit": "3.0",
     "time_place": "수 15:00-17:45 (글405)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "산학필수 과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=062077&p_code=CSE33000&p_subjt=CSE330&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724154821"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE406-14",
     "title": "캡스톤디자인",
@@ -1191,11 +1466,14 @@
     "professor": "성무진",
     "credit": "3.0",
     "time_place": "월 19:00-21:45 (B09)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:디자인적사고 / 3학년 2학기부터 수강허용 OT 개별교수님 안내에 따름",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=062134&p_code=CSE40614&p_subjt=CSE406&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724155824"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE496-06",
     "title": "연구연수활동1(컴퓨터공학)",
@@ -1204,11 +1482,14 @@
     "professor": "성무진",
     "credit": "1.0",
     "time_place": "토 09:00-10:50 ()",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "지도교수를 통해 별도로 신청한 학생들만 신청 가능(정*서)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=062134&p_code=CSE49606&p_subjt=CSE496&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724156841"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE304-02",
     "title": "알고리즘",
@@ -1217,11 +1498,14 @@
     "professor": "성무진",
     "credit": "3.0",
     "time_place": "화 13:00-14:50 (B06)\n목 13:00-14:50 (B06)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:자료구조 / 본인 노트북으로 실습(필요시 대여 가능)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=062134&p_code=CSE30402&p_subjt=CSE304&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724157712"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "EE209-01",
     "title": "논리회로(컴퓨터공학과)",
@@ -1231,10 +1515,13 @@
     "credit": "3.0",
     "time_place": "월 16:30-17:45 (전220)\n수 16:30-17:45 (전220)",
     "language": "영어(부분)",
-    "note": "",
-    "syllabus_url": ""
+    "is_english": true,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=062135&p_code=EE20901&p_subjt=EE209&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724158607"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE201-00",
     "title": "이산구조",
@@ -1244,10 +1531,13 @@
     "credit": "3.0",
     "time_place": "화 10:30-11:45 (B07)\n목 10:30-11:45 (B07)",
     "language": "영어(부분)",
-    "note": "",
-    "syllabus_url": ""
+    "is_english": true,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=063365&p_code=CSE20100&p_subjt=CSE201&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724159359"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE304-01",
     "title": "알고리즘",
@@ -1256,11 +1546,14 @@
     "professor": "박철준",
     "credit": "3.0",
     "time_place": "화 15:00-16:50 (B01)\n목 15:00-16:50 (B01)",
-    "language": "",
+    "language": null,
+    "is_english": false,
     "note": "선수과목:자료구조 / 본인 노트북으로 실습(필요시 대여 가능)",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=063365&p_code=CSE30401&p_subjt=CSE304&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724160153"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "CSE201-01",
     "title": "이산구조",
@@ -1269,11 +1562,14 @@
     "professor": "최경식",
     "credit": "3.0",
     "time_place": "월 10:30-11:45 (B07)\n수 10:30-11:45 (B07)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=063929&p_code=CSE20101&p_subjt=CSE201&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724161013"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "EE209-03",
     "title": "논리회로(컴퓨터공학과)",
@@ -1282,11 +1578,14 @@
     "professor": "길태현",
     "credit": "3.0",
     "time_place": "화 09:00-10:15 (전136)\n목 09:00-10:15 (전136)",
-    "language": "",
-    "note": "",
-    "syllabus_url": ""
+    "language": null,
+    "is_english": false,
+    "note": null,
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=063976&p_code=EE20903&p_subjt=EE209&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724161824"
   },
   {
+    "lecture_year": 2025,
+    "semester": 1,
     "campus": "국제",
     "course_no": "AI3001-00",
     "title": "고급딥러닝(컴퓨터공학과)",
@@ -1296,7 +1595,8 @@
     "credit": "3.0",
     "time_place": "화 10:30-11:45 (전103)\n목 10:30-11:45 (전103)",
     "language": "영어(부분)",
+    "is_english": true,
     "note": "인공지능 실전 마이크로디그리 과목",
-    "syllabus_url": ""
+    "syllabus_url": "https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2025&p_term=10&p_teach=064244&p_code=AI300100&p_subjt=AI3001&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1747724162653"
   }
 ]

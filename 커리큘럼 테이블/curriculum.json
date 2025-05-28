@@ -1,2077 +1,2077 @@
 [
   {
     "entry_year":2020,
-    "subject_code":"APHY1002",
+    "subject_id":"APHY1002",
     "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2020,
-    "subject_code":"AMTH1009",
+    "subject_id":"AMTH1009",
     "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2020,
-    "subject_code":"AMTH1004",
+    "subject_id":"AMTH1004",
     "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2020,
-    "subject_code":"EE211",
+    "subject_id":"EE211",
     "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2020,
-    "subject_code":"AMTH1001",
+    "subject_id":"AMTH1001",
     "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE201",
+    "subject_id":"CSE201",
     "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2020,
-    "subject_code":"SWCON103",
+    "subject_id":"SWCON103",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"SWCON104",
+    "subject_id":"SWCON104",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE103",
+    "subject_id":"CSE103",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"EE209",
+    "subject_id":"EE209",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE203",
+    "subject_id":"CSE203",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE204",
+    "subject_id":"CSE204",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE301",
+    "subject_id":"CSE301",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE302",
+    "subject_id":"CSE302",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE327",
+    "subject_id":"CSE327",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE304",
+    "subject_id":"CSE304",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE305",
+    "subject_id":"CSE305",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE223",
+    "subject_id":"CSE223",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE208",
+    "subject_id":"CSE208",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE308",
+    "subject_id":"CSE308",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE309",
+    "subject_id":"CSE309",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE406",
+    "subject_id":"CSE406",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE405",
+    "subject_id":"CSE405",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE403",
+    "subject_id":"CSE403",
     "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2020,
-    "subject_code":"EE210",
+    "subject_id":"EE210",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE321",
+    "subject_id":"CSE321",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE322",
+    "subject_id":"CSE322",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE323",
+    "subject_id":"CSE323",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE324",
+    "subject_id":"CSE324",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE303",
+    "subject_id":"CSE303",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE328",
+    "subject_id":"CSE328",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE330",
+    "subject_id":"CSE330",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE334",
+    "subject_id":"CSE334",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE436",
+    "subject_id":"CSE436",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE437",
+    "subject_id":"CSE437",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE438",
+    "subject_id":"CSE438",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"SWCON302",
+    "subject_id":"SWCON302",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE496",
+    "subject_id":"CSE496",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE497",
+    "subject_id":"CSE497",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE495",
+    "subject_id":"CSE495",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE499",
+    "subject_id":"CSE499",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE338",
+    "subject_id":"CSE338",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE331",
+    "subject_id":"CSE331",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE434",
+    "subject_id":"CSE434",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE335",
+    "subject_id":"CSE335",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"SWCON221",
+    "subject_id":"SWCON221",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE423",
+    "subject_id":"CSE423",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE435",
+    "subject_id":"CSE435",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE433",
+    "subject_id":"CSE433",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE332",
+    "subject_id":"CSE332",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE439",
+    "subject_id":"CSE439",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE440",
+    "subject_id":"CSE440",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE427",
+    "subject_id":"CSE427",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE426",
+    "subject_id":"CSE426",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE428",
+    "subject_id":"CSE428",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE430",
+    "subject_id":"CSE430",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE431",
+    "subject_id":"CSE431",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE224",
+    "subject_id":"CSE224",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE441",
+    "subject_id":"CSE441",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE442",
+    "subject_id":"CSE442",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE443",
+    "subject_id":"CSE443",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2020,
-    "subject_code":"CSE444",
+    "subject_id":"CSE444",
     "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"APHY1002",
-    "major_category":"물리학 및 실험 1"
+    "subject_id":"APHY1002",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2021,
-    "subject_code":"AMTH1009",
-    "major_category":"미분적분학"
+    "subject_id":"AMTH1009",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2021,
-    "subject_code":"AMTH1004",
-    "major_category":"선형대수"
+    "subject_id":"AMTH1004",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2021,
-    "subject_code":"EE211",
-    "major_category":"확률 및 랜덤변수"
+    "subject_id":"EE211",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2021,
-    "subject_code":"AMTH1001",
-    "major_category":"미분방정식"
+    "subject_id":"AMTH1001",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE201",
-    "major_category":"이산구조"
+    "subject_id":"CSE201",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2021,
-    "subject_code":"SWCON103",
-    "major_category":"디자인적사고"
+    "subject_id":"SWCON103",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"SWCON104",
-    "major_category":"웹\/파이선프로그래밍"
+    "subject_id":"SWCON104",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE103",
-    "major_category":"객체지향프로그래밍"
+    "subject_id":"CSE103",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"EE209",
-    "major_category":"논리회로"
+    "subject_id":"EE209",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE203",
-    "major_category":"컴퓨터구조"
+    "subject_id":"CSE203",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE204",
-    "major_category":"자료구조"
+    "subject_id":"CSE204",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE301",
-    "major_category":"운영체제"
+    "subject_id":"CSE301",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE302",
-    "major_category":"컴퓨터네트워크"
+    "subject_id":"CSE302",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE327",
-    "major_category":"소프트웨어공학"
+    "subject_id":"CSE327",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE304",
-    "major_category":"알고리즘분석"
+    "subject_id":"CSE304",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE305",
-    "major_category":"데이터베이스"
+    "subject_id":"CSE305",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE223",
-    "major_category":"오픈소스SW개발"
+    "subject_id":"CSE223",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE208",
-    "major_category":"IT기술영어 1"
+    "subject_id":"CSE208",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE308",
-    "major_category":"IT기술영어 2"
+    "subject_id":"CSE308",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE309",
-    "major_category":"IT기술영어 3"
+    "subject_id":"CSE309",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE406",
-    "major_category":"캡스톤디자인 1"
+    "subject_id":"CSE406",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE405",
-    "major_category":"캡스톤디자인 2"
+    "subject_id":"CSE405",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE403",
-    "major_category":"졸업논문"
+    "subject_id":"CSE403",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"SWCON253",
-    "major_category":"기계학습"
+    "subject_id":"SWCON253",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2021,
-    "subject_code":"EE210",
-    "major_category":"신호와시스템"
+    "subject_id":"EE210",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE321",
-    "major_category":"문제해결"
+    "subject_id":"CSE321",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE322",
-    "major_category":"형식언어 및 컴파일러"
+    "subject_id":"CSE322",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE323",
-    "major_category":"파일처리"
+    "subject_id":"CSE323",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE324",
-    "major_category":"멀티미디어시스템"
+    "subject_id":"CSE324",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE303",
-    "major_category":"시스템분석 및 설계"
+    "subject_id":"CSE303",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE328",
-    "major_category":"프로그래밍언어구조론"
+    "subject_id":"CSE328",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE330",
-    "major_category":"SW스타트업비즈니스"
+    "subject_id":"CSE330",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE334",
-    "major_category":"SW스타트업프로젝트"
+    "subject_id":"CSE334",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE436",
-    "major_category":"최신기술프로젝트 1"
+    "subject_id":"CSE436",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE437",
-    "major_category":"최신기술프로젝트 2"
+    "subject_id":"CSE437",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE438",
-    "major_category":"최신기술콜로키움 1"
+    "subject_id":"CSE438",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"SWCON302",
-    "major_category":"최신기술콜로키움 2"
+    "subject_id":"SWCON302",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE496",
-    "major_category":"연구연수활동 1"
+    "subject_id":"CSE496",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE497",
-    "major_category":"연구연수활동 2"
+    "subject_id":"CSE497",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE495",
-    "major_category":"독립심화학습 1\n(컴퓨터공학과)"
+    "subject_id":"CSE495",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE499",
-    "major_category":"독립심화학습 2\n(컴퓨터공학과)"
+    "subject_id":"CSE499",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE445",
-    "major_category":"인공지능"
+    "subject_id":"CSE445",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE434",
-    "major_category":"빅데이터프로그래밍"
+    "subject_id":"CSE434",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE335",
-    "major_category":"클라우드컴퓨팅"
+    "subject_id":"CSE335",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"SWCON221",
-    "major_category":"데이터센터프로그래밍"
+    "subject_id":"SWCON221",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE423",
-    "major_category":"정보보호"
+    "subject_id":"CSE423",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE435",
-    "major_category":"모바일프로그래밍"
+    "subject_id":"CSE435",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE433",
-    "major_category":"웹서비스프로그래밍"
+    "subject_id":"CSE433",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE332",
-    "major_category":"리눅스시스템프로그래밍"
+    "subject_id":"CSE332",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE439",
-    "major_category":"IoT디지털시스템"
+    "subject_id":"CSE439",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE440",
-    "major_category":"IoT소프트웨어"
+    "subject_id":"CSE440",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE427",
-    "major_category":"로봇소프트웨어"
+    "subject_id":"CSE427",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE426",
-    "major_category":"영상처리"
+    "subject_id":"CSE426",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE428",
-    "major_category":"컴퓨터그래픽스"
+    "subject_id":"CSE428",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE430",
-    "major_category":"멀티미디어처리"
+    "subject_id":"CSE430",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE431",
-    "major_category":"인간-컴퓨터상호작용"
+    "subject_id":"CSE431",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE224",
-    "major_category":"UI\/UX프로그래밍"
+    "subject_id":"CSE224",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE441",
-    "major_category":"컴퓨터비젼"
+    "subject_id":"CSE441",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE442",
-    "major_category":"블록체인"
+    "subject_id":"CSE442",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE443",
-    "major_category":"AI 네트워킹"
+    "subject_id":"CSE443",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE444",
-    "major_category":"IoT 네트워크"
+    "subject_id":"CSE444",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE331",
-    "major_category":"딥러닝"
+    "subject_id":"CSE331",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2021,
-    "subject_code":"CSE340",
-    "major_category":"실전기계학습"
+    "subject_id":"CSE340",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"APHY1002",
-    "major_category":"물리학및실험 1"
+    "subject_id":"APHY1002",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2022,
-    "subject_code":"AMTH1009",
-    "major_category":"미분적분학"
+    "subject_id":"AMTH1009",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2022,
-    "subject_code":"AMTH1004",
-    "major_category":"선형대수"
+    "subject_id":"AMTH1004",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2022,
-    "subject_code":"EE211",
-    "major_category":"확률및랜덤변수"
+    "subject_id":"EE211",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2022,
-    "subject_code":"AMTH1001",
-    "major_category":"미분방정식"
+    "subject_id":"AMTH1001",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE201",
-    "major_category":"이산구조"
+    "subject_id":"CSE201",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2022,
-    "subject_code":"SWCON103",
-    "major_category":"디자인적사고"
+    "subject_id":"SWCON103",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"SWCON104",
-    "major_category":"웹\/파이선프로그래밍"
+    "subject_id":"SWCON104",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE103",
-    "major_category":"객체지향프로그래밍"
+    "subject_id":"CSE103",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"EE209",
-    "major_category":"논리회로"
+    "subject_id":"EE209",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE203",
-    "major_category":"컴퓨터구조"
+    "subject_id":"CSE203",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE204",
-    "major_category":"자료구조"
+    "subject_id":"CSE204",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE301",
-    "major_category":"운영체제"
+    "subject_id":"CSE301",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE302",
-    "major_category":"컴퓨터네트워크"
+    "subject_id":"CSE302",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE327",
-    "major_category":"소프트웨어공학"
+    "subject_id":"CSE327",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE304",
-    "major_category":"알고리즘분석"
+    "subject_id":"CSE304",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE305",
-    "major_category":"데이터베이스"
+    "subject_id":"CSE305",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE223",
-    "major_category":"오픈소스SW개발"
+    "subject_id":"CSE223",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE208",
-    "major_category":"IT기술영어 1"
+    "subject_id":"CSE208",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE308",
-    "major_category":"IT기술영어 2"
+    "subject_id":"CSE308",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE309",
-    "major_category":"IT기술영어 3"
+    "subject_id":"CSE309",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE406",
-    "major_category":"캡스톤디자인 1"
+    "subject_id":"CSE406",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE405",
-    "major_category":"캡스톤디자인 2"
+    "subject_id":"CSE405",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE403",
-    "major_category":"졸업논문"
+    "subject_id":"CSE403",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"SWCON253",
-    "major_category":"기계학습"
+    "subject_id":"SWCON253",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2022,
-    "subject_code":"EE210",
-    "major_category":"신호와시스템"
+    "subject_id":"EE210",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE321",
-    "major_category":"문제해결"
+    "subject_id":"CSE321",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE322",
-    "major_category":"형식언어및컴파일러"
+    "subject_id":"CSE322",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE323",
-    "major_category":"파일처리"
+    "subject_id":"CSE323",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE324",
-    "major_category":"멀티미디어시스템"
+    "subject_id":"CSE324",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE303",
-    "major_category":"시스템분석및설계"
+    "subject_id":"CSE303",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE328",
-    "major_category":"프로그래밍언어구조론"
+    "subject_id":"CSE328",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE330",
-    "major_category":"SW스타트업비즈니스"
+    "subject_id":"CSE330",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE334",
-    "major_category":"SW스타트업프로젝트"
+    "subject_id":"CSE334",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE436",
-    "major_category":"최신기술프로젝트 1"
+    "subject_id":"CSE436",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE437",
-    "major_category":"최신기술프로젝트 2"
+    "subject_id":"CSE437",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE438",
-    "major_category":"최신기술콜로키움 1"
+    "subject_id":"CSE438",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"SWCON302",
-    "major_category":"최신기술콜로키움 2"
+    "subject_id":"SWCON302",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE496",
-    "major_category":"연구연수활동 1"
+    "subject_id":"CSE496",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE497",
-    "major_category":"연구연수활동 2"
+    "subject_id":"CSE497",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE495",
-    "major_category":"독립심화학습 1\n(컴퓨터공학과)"
+    "subject_id":"CSE495",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE499",
-    "major_category":"독립심화학습 2\n(컴퓨터공학과)"
+    "subject_id":"CSE499",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE445",
-    "major_category":"인공지능"
+    "subject_id":"CSE445",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE434",
-    "major_category":"빅데이터프로그래밍"
+    "subject_id":"CSE434",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE335",
-    "major_category":"클라우드컴퓨팅"
+    "subject_id":"CSE335",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"SWCON221",
-    "major_category":"데이터센터프로그래밍"
+    "subject_id":"SWCON221",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE423",
-    "major_category":"정보보호"
+    "subject_id":"CSE423",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE435",
-    "major_category":"모바일프로그래밍"
+    "subject_id":"CSE435",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE433",
-    "major_category":"웹서비스프로그래밍"
+    "subject_id":"CSE433",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE332",
-    "major_category":"리눅스시스템프로그래밍"
+    "subject_id":"CSE332",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE439",
-    "major_category":"IoT디지털시스템"
+    "subject_id":"CSE439",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE440",
-    "major_category":"IoT소프트웨어"
+    "subject_id":"CSE440",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE427",
-    "major_category":"로봇소프트웨어"
+    "subject_id":"CSE427",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE426",
-    "major_category":"영상처리"
+    "subject_id":"CSE426",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE428",
-    "major_category":"컴퓨터그래픽스"
+    "subject_id":"CSE428",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE430",
-    "major_category":"멀티미디어처리"
+    "subject_id":"CSE430",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE431",
-    "major_category":"인간-컴퓨터상호작용"
+    "subject_id":"CSE431",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE224",
-    "major_category":"UI\/UX프로그래밍"
+    "subject_id":"CSE224",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE441",
-    "major_category":"컴퓨터비젼"
+    "subject_id":"CSE441",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE442",
-    "major_category":"블록체인"
+    "subject_id":"CSE442",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE443",
-    "major_category":"AI네트워킹"
+    "subject_id":"CSE443",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE444",
-    "major_category":"IoT네트워크"
+    "subject_id":"CSE444",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE331",
-    "major_category":"딥러닝"
+    "subject_id":"CSE331",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2022,
-    "subject_code":"CSE340",
-    "major_category":"실전기계학습"
+    "subject_id":"CSE340",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"APHY1002",
-    "major_category":"물리학및실험 1"
+    "subject_id":"APHY1002",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2023,
-    "subject_code":"AMTH1004",
-    "major_category":"선형대수"
+    "subject_id":"AMTH1004",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2023,
-    "subject_code":"AMTH1009",
-    "major_category":"미분적분학"
+    "subject_id":"AMTH1009",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2023,
-    "subject_code":"AMTH1001",
-    "major_category":"미분방정식"
+    "subject_id":"AMTH1001",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2023,
-    "subject_code":"EE211",
-    "major_category":"확률및랜덤변수"
+    "subject_id":"EE211",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE201",
-    "major_category":"이산구조"
+    "subject_id":"CSE201",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE103",
-    "major_category":"객체지향프로그래밍"
+    "subject_id":"CSE103",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON103",
-    "major_category":"디자인적사고"
+    "subject_id":"SWCON103",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON104",
-    "major_category":"웹\/파이선프로그래밍"
+    "subject_id":"SWCON104",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"EE209",
-    "major_category":"논리회로"
+    "subject_id":"EE209",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE203",
-    "major_category":"컴퓨터구조"
+    "subject_id":"CSE203",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE204",
-    "major_category":"자료구조"
+    "subject_id":"CSE204",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON201",
-    "major_category":"오픈소스SW개발\n방법및도구"
+    "subject_id":"SWCON201",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON253",
-    "major_category":"기계학습"
+    "subject_id":"SWCON253",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE301",
-    "major_category":"운영체제"
+    "subject_id":"CSE301",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE302",
-    "major_category":"컴퓨터네트워크"
+    "subject_id":"CSE302",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE304",
-    "major_category":"알고리즘"
+    "subject_id":"CSE304",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE305",
-    "major_category":"데이터베이스"
+    "subject_id":"CSE305",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE327",
-    "major_category":"소프트웨어공학"
+    "subject_id":"CSE327",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE403",
-    "major_category":"졸업논문(컴퓨터공학)"
+    "subject_id":"CSE403",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE405",
-    "major_category":"졸업프로젝트"
+    "subject_id":"CSE405",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE406",
-    "major_category":"캡스톤디자인"
+    "subject_id":"CSE406",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE224",
-    "major_category":"UI\/UX프로그래밍"
+    "subject_id":"CSE224",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON254",
-    "major_category":"회로와신호"
+    "subject_id":"SWCON254",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"EE210",
-    "major_category":"신호와시스템"
+    "subject_id":"EE210",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON221",
-    "major_category":"마이크로서비스\n프로그래밍"
+    "subject_id":"SWCON221",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE322",
-    "major_category":"컴파일러"
+    "subject_id":"CSE322",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE324",
-    "major_category":"메타버스시스템"
+    "subject_id":"CSE324",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE330",
-    "major_category":"SW스타트업비즈니스"
+    "subject_id":"CSE330",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE335",
-    "major_category":"클라우드컴퓨팅"
+    "subject_id":"CSE335",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE328",
-    "major_category":"프로그래밍언어론"
+    "subject_id":"CSE328",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE332",
-    "major_category":"리눅스시스템프로그래밍"
+    "subject_id":"CSE332",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE334",
-    "major_category":"SW스타트업프로젝트"
+    "subject_id":"CSE334",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE434",
-    "major_category":"빅데이터프로그래밍"
+    "subject_id":"CSE434",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE331",
-    "major_category":"딥러닝"
+    "subject_id":"CSE331",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE340",
-    "major_category":"실전기계학습"
+    "subject_id":"CSE340",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON331",
-    "major_category":"로봇프로그래밍"
+    "subject_id":"SWCON331",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE423",
-    "major_category":"정보보호"
+    "subject_id":"CSE423",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE426",
-    "major_category":"영상처리"
+    "subject_id":"CSE426",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE428",
-    "major_category":"컴퓨터그래픽스"
+    "subject_id":"CSE428",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE436",
-    "major_category":"빅데이터프로젝트"
+    "subject_id":"CSE436",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE438",
-    "major_category":"최신기술콜로키움 1"
+    "subject_id":"CSE438",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE440",
-    "major_category":"AIoT소프트웨어"
+    "subject_id":"CSE440",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE443",
-    "major_category":"AI네트워킹"
+    "subject_id":"CSE443",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE444",
-    "major_category":"AIoT네트워크"
+    "subject_id":"CSE444",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE450",
-    "major_category":"모바일\/웹서비스\n프로그래밍"
+    "subject_id":"CSE450",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE452",
-    "major_category":"소프트웨어보안"
+    "subject_id":"CSE452",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON302",
-    "major_category":"최신기술콜로키움 2"
+    "subject_id":"SWCON302",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE430",
-    "major_category":"메타버스테이터처리"
+    "subject_id":"CSE430",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE431",
-    "major_category":"인간-컴퓨터상호작용"
+    "subject_id":"CSE431",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE437",
-    "major_category":"클라우드프로젝트"
+    "subject_id":"CSE437",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE439",
-    "major_category":"AIoT디지털시스템"
+    "subject_id":"CSE439",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE441",
-    "major_category":"컴퓨터비젼"
+    "subject_id":"CSE441",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE442",
-    "major_category":"블록체인"
+    "subject_id":"CSE442",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE451",
-    "major_category":"모바일\/웹서비스\n프로젝트"
+    "subject_id":"CSE451",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE453",
-    "major_category":"웹보안"
+    "subject_id":"CSE453",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE496",
-    "major_category":"연구연수활동 1"
+    "subject_id":"CSE496",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE497",
-    "major_category":"연구연수활동 2"
+    "subject_id":"CSE497",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE495",
-    "major_category":"독립심화학습 1\n(컴퓨터공학과)"
+    "subject_id":"CSE495",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE499",
-    "major_category":"독립심화학습 2\n(컴퓨터공학과)"
+    "subject_id":"CSE499",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON211",
-    "major_category":"게임프로그래밍입문"
+    "subject_id":"SWCON211",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON212",
-    "major_category":"게임엔진기초"
+    "subject_id":"SWCON212",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON366",
-    "major_category":"3D데이터처리"
+    "subject_id":"SWCON366",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON312",
-    "major_category":"체감형기술이론및실습"
+    "subject_id":"SWCON312",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON311",
-    "major_category":"게임그래픽프로그래밍"
+    "subject_id":"SWCON311",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"AI1002",
-    "major_category":"인공지능프로그래밍"
+    "subject_id":"AI1002",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"AI3001",
-    "major_category":"고급딥러닝"
+    "subject_id":"AI3001",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"AI3004",
-    "major_category":"빅데이터마이닝"
+    "subject_id":"AI3004",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON491",
-    "major_category":"인공지능과 게임프로그래밍"
+    "subject_id":"SWCON491",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON313",
-    "major_category":"가상\/증강현실이론및실습"
+    "subject_id":"SWCON313",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON492",
-    "major_category":"풀스택서비스네트워킹"
+    "subject_id":"SWCON492",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON493",
-    "major_category":"자연언어처리"
+    "subject_id":"SWCON493",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON370",
-    "major_category":"풀스택서비스프로그래밍"
+    "subject_id":"SWCON370",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"SWCON495",
-    "major_category":"강화학습"
+    "subject_id":"SWCON495",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2023,
-    "subject_code":"CSE104",
-    "major_category":"실감미디어컴퓨팅기초"
+    "subject_id":"CSE104",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"AMTH1001",
-    "major_category":"미분방정식"
+    "subject_id":"AMTH1001",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2024,
-    "subject_code":"AMTH1004",
-    "major_category":"선형대수"
+    "subject_id":"AMTH1004",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2024,
-    "subject_code":"AMTH1009",
-    "major_category":"미분적분학"
+    "subject_id":"AMTH1009",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE201",
-    "major_category":"이산구조"
+    "subject_id":"CSE201",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2024,
-    "subject_code":"EE211",
-    "major_category":"확률및랜덤변수"
+    "subject_id":"EE211",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE103",
-    "major_category":"객체지향프로그래밍"
+    "subject_id":"CSE103",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE203",
-    "major_category":"컴퓨터구조"
+    "subject_id":"CSE203",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE204",
-    "major_category":"자료구조"
+    "subject_id":"CSE204",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE301",
-    "major_category":"운영체제"
+    "subject_id":"CSE301",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE302",
-    "major_category":"컴퓨터네트워크"
+    "subject_id":"CSE302",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE304",
-    "major_category":"알고리즘"
+    "subject_id":"CSE304",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE305",
-    "major_category":"데이터베이스"
+    "subject_id":"CSE305",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE327",
-    "major_category":"소프트웨어공학"
+    "subject_id":"CSE327",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE403",
-    "major_category":"졸업논문(컴퓨터공학)"
+    "subject_id":"CSE403",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE405",
-    "major_category":"졸업프로젝트"
+    "subject_id":"CSE405",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE406",
-    "major_category":"캡스톤디자인"
+    "subject_id":"CSE406",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"EE209",
-    "major_category":"논리회로"
+    "subject_id":"EE209",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON103",
-    "major_category":"디자인적사고"
+    "subject_id":"SWCON103",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON104",
-    "major_category":"웹\/파이선프로그래밍"
+    "subject_id":"SWCON104",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON201",
-    "major_category":"오픈소스SW개발방법및도구"
+    "subject_id":"SWCON201",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON253",
-    "major_category":"기계학습"
+    "subject_id":"SWCON253",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2024,
-    "subject_code":"AI1002",
-    "major_category":"인공지능프로그래밍"
+    "subject_id":"AI1002",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"AI3001",
-    "major_category":"고급딥러닝"
+    "subject_id":"AI3001",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"AI3004",
-    "major_category":"빅데이터마이닝"
+    "subject_id":"AI3004",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE104",
-    "major_category":"실감미디어컴퓨팅기초"
+    "subject_id":"CSE104",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE224",
-    "major_category":"UI\/UX프로그래밍"
+    "subject_id":"CSE224",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE322",
-    "major_category":"컴파일러"
+    "subject_id":"CSE322",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE324",
-    "major_category":"메타버스시스템"
+    "subject_id":"CSE324",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE328",
-    "major_category":"프로그래밍언어론"
+    "subject_id":"CSE328",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE330",
-    "major_category":"SW스타트업비즈니스"
+    "subject_id":"CSE330",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE331",
-    "major_category":"딥러닝"
+    "subject_id":"CSE331",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE332",
-    "major_category":"리눅스시스템프로그래밍"
+    "subject_id":"CSE332",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE334",
-    "major_category":"SW스타트업프로젝트"
+    "subject_id":"CSE334",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE335",
-    "major_category":"클라우드컴퓨팅"
+    "subject_id":"CSE335",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE340",
-    "major_category":"실전기계학습"
+    "subject_id":"CSE340",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE423",
-    "major_category":"정보보호"
+    "subject_id":"CSE423",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE426",
-    "major_category":"영상처리"
+    "subject_id":"CSE426",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE428",
-    "major_category":"컴퓨터그래픽스"
+    "subject_id":"CSE428",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE430",
-    "major_category":"메타버스테이터처리"
+    "subject_id":"CSE430",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE431",
-    "major_category":"인간-컴퓨터상호작용"
+    "subject_id":"CSE431",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE434",
-    "major_category":"빅데이터프로그래밍"
+    "subject_id":"CSE434",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE436",
-    "major_category":"빅데이터프로젝트"
+    "subject_id":"CSE436",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE437",
-    "major_category":"클라우드프로젝트"
+    "subject_id":"CSE437",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE438",
-    "major_category":"최신기술콜로키움1"
+    "subject_id":"CSE438",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE439",
-    "major_category":"AIoT디지털시스템"
+    "subject_id":"CSE439",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE440",
-    "major_category":"AIoT소프트웨어"
+    "subject_id":"CSE440",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE441",
-    "major_category":"컴퓨터비젼"
+    "subject_id":"CSE441",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE442",
-    "major_category":"블록체인"
+    "subject_id":"CSE442",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE443",
-    "major_category":"AI네트워킹"
+    "subject_id":"CSE443",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE444",
-    "major_category":"AIoT네트워크"
+    "subject_id":"CSE444",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE450",
-    "major_category":"모바일\/웹서비스프로그래밍"
+    "subject_id":"CSE450",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE451",
-    "major_category":"모바일\/웹서비스프로젝트"
+    "subject_id":"CSE451",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE452",
-    "major_category":"소프트웨어보안"
+    "subject_id":"CSE452",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE453",
-    "major_category":"웹보안"
+    "subject_id":"CSE453",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE495",
-    "major_category":"독립심화학습1(컴퓨터공학과)"
+    "subject_id":"CSE495",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE496",
-    "major_category":"연구연수활동1"
+    "subject_id":"CSE496",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE497",
-    "major_category":"연구연수활동2"
+    "subject_id":"CSE497",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"CSE499",
-    "major_category":"독립심화학습2(컴퓨터공학과)"
+    "subject_id":"CSE499",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"EE210",
-    "major_category":"신호와시스템"
+    "subject_id":"EE210",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON211",
-    "major_category":"게임프로그래밍입문"
+    "subject_id":"SWCON211",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON212",
-    "major_category":"게인엔진기초"
+    "subject_id":"SWCON212",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON221",
-    "major_category":"마이크로서비스프로그래밍"
+    "subject_id":"SWCON221",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON254",
-    "major_category":"회로와신호"
+    "subject_id":"SWCON254",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON302",
-    "major_category":"최신기술콜로키움2"
+    "subject_id":"SWCON302",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON311",
-    "major_category":"게임그래픽프로그래밍"
+    "subject_id":"SWCON311",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON312",
-    "major_category":"게임인터랙티브테크놀로지"
+    "subject_id":"SWCON312",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON313",
-    "major_category":"가상\/증강현실이론및실습"
+    "subject_id":"SWCON313",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON331",
-    "major_category":"로봇프로그래밍"
+    "subject_id":"SWCON331",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON366",
-    "major_category":"3D데이터처리"
+    "subject_id":"SWCON366",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON370",
-    "major_category":"풀스택서비스프로그래밍"
+    "subject_id":"SWCON370",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON491",
-    "major_category":"인공지능과게임프로그래밍"
+    "subject_id":"SWCON491",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON492",
-    "major_category":"풀스택서비스네트워킹"
+    "subject_id":"SWCON492",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON493",
-    "major_category":"자연언어처리"
+    "subject_id":"SWCON493",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2024,
-    "subject_code":"SWCON495",
-    "major_category":"강화학습"
+    "subject_id":"SWCON495",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"AMTH1001",
-    "major_category":"미분방정식"
+    "subject_id":"AMTH1001",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2025,
-    "subject_code":"AMTH1004",
-    "major_category":"선형대수"
+    "subject_id":"AMTH1004",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2025,
-    "subject_code":"AMTH1009",
-    "major_category":"미분적분학"
+    "subject_id":"AMTH1009",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2025,
-    "subject_code":"EE211",
-    "major_category":"확률및랜덤변수"
+    "subject_id":"EE211",
+    "major_category":"BASIC_MAJOR"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE103",
-    "major_category":"객체지향프로그래밍"
+    "subject_id":"CSE103",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE203",
-    "major_category":"컴퓨터구조"
+    "subject_id":"CSE203",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE204",
-    "major_category":"자료구조"
+    "subject_id":"CSE204",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE301",
-    "major_category":"운영체제"
+    "subject_id":"CSE301",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE302",
-    "major_category":"컴퓨터네트워크"
+    "subject_id":"CSE302",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE304",
-    "major_category":"알고리즘"
+    "subject_id":"CSE304",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE305",
-    "major_category":"데이터베이스"
+    "subject_id":"CSE305",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE327",
-    "major_category":"소프트웨어공학"
+    "subject_id":"CSE327",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE403",
-    "major_category":"졸업논문(컴퓨터공학)"
+    "subject_id":"CSE403",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE405",
-    "major_category":"졸업프로젝트"
+    "subject_id":"CSE405",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE406",
-    "major_category":"캡스톤디자인"
+    "subject_id":"CSE406",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"EE209",
-    "major_category":"논리회로"
+    "subject_id":"EE209",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON104",
-    "major_category":"웹\/파이선프로그래밍"
+    "subject_id":"SWCON104",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON201",
-    "major_category":"오픈소스SW개발방법및도구"
+    "subject_id":"SWCON201",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON253",
-    "major_category":"기계학습"
+    "subject_id":"SWCON253",
+    "major_category":"MAJOR_REQUIRED"
   },
   {
     "entry_year":2025,
-    "subject_code":"AI1002",
-    "major_category":"인공지능프로그래밍"
+    "subject_id":"AI1002",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"AI3001",
-    "major_category":"고급딥러닝"
+    "subject_id":"AI3001",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"AI3004",
-    "major_category":"빅데이터마이닝"
+    "subject_id":"AI3004",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE104",
-    "major_category":"실감미디어컴퓨팅기초"
+    "subject_id":"CSE104",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE201",
-    "major_category":"이산구조"
+    "subject_id":"CSE201",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE224",
-    "major_category":"UI\/UX프로그래밍"
+    "subject_id":"CSE224",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE322",
-    "major_category":"컴파일러"
+    "subject_id":"CSE322",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE324",
-    "major_category":"메타버스시스템"
+    "subject_id":"CSE324",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE328",
-    "major_category":"프로그래밍언어론"
+    "subject_id":"CSE328",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE330",
-    "major_category":"SW스타트업비즈니스"
+    "subject_id":"CSE330",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE331",
-    "major_category":"딥러닝"
+    "subject_id":"CSE331",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE332",
-    "major_category":"리눅스시스템프로그래밍"
+    "subject_id":"CSE332",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE334",
-    "major_category":"SW스타트업프로젝트"
+    "subject_id":"CSE334",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE335",
-    "major_category":"클라우드컴퓨팅"
+    "subject_id":"CSE335",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE340",
-    "major_category":"실전기계학습"
+    "subject_id":"CSE340",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE4100",
-    "major_category":"블록체인프로젝트"
+    "subject_id":"CSE4100",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE423",
-    "major_category":"정보보호"
+    "subject_id":"CSE423",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE426",
-    "major_category":"영상처리"
+    "subject_id":"CSE426",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE428",
-    "major_category":"컴퓨터그래픽스"
+    "subject_id":"CSE428",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE430",
-    "major_category":"메타버스테이터처리"
+    "subject_id":"CSE430",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE431",
-    "major_category":"인간-컴퓨터상호작용"
+    "subject_id":"CSE431",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE434",
-    "major_category":"빅데이터프로그래밍"
+    "subject_id":"CSE434",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE436",
-    "major_category":"빅데이터프로젝트"
+    "subject_id":"CSE436",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE437",
-    "major_category":"클라우드프로젝트"
+    "subject_id":"CSE437",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE438",
-    "major_category":"최신기술콜로키움1"
+    "subject_id":"CSE438",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE439",
-    "major_category":"AIoT디지털시스템"
+    "subject_id":"CSE439",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE440",
-    "major_category":"AIoT소프트웨어"
+    "subject_id":"CSE440",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE441",
-    "major_category":"컴퓨터비젼"
+    "subject_id":"CSE441",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE442",
-    "major_category":"블록체인"
+    "subject_id":"CSE442",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE443",
-    "major_category":"AI네트워킹"
+    "subject_id":"CSE443",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE444",
-    "major_category":"AIoT네트워크"
+    "subject_id":"CSE444",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE450",
-    "major_category":"모바일\/웹서비스프로그래밍"
+    "subject_id":"CSE450",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE451",
-    "major_category":"모바일\/웹서비스프로젝트"
+    "subject_id":"CSE451",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE452",
-    "major_category":"소프트웨어보안"
+    "subject_id":"CSE452",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE453",
-    "major_category":"웹보안"
+    "subject_id":"CSE453",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE495",
-    "major_category":"독립심화학습1(컴퓨터공학과)"
+    "subject_id":"CSE495",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE496",
-    "major_category":"연구연수활동1"
+    "subject_id":"CSE496",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE497",
-    "major_category":"연구연수활동2"
+    "subject_id":"CSE497",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"CSE499",
-    "major_category":"독립심화학습2(컴퓨터공학과)"
+    "subject_id":"CSE499",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"EE210",
-    "major_category":"신호와시스템"
+    "subject_id":"EE210",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON103",
-    "major_category":"디자인적사고"
+    "subject_id":"SWCON103",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON211",
-    "major_category":"게임프로그래밍입문"
+    "subject_id":"SWCON211",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON212",
-    "major_category":"게인엔진기초"
+    "subject_id":"SWCON212",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON221",
-    "major_category":"마이크로서비스프로그래밍"
+    "subject_id":"SWCON221",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON254",
-    "major_category":"회로와신호"
+    "subject_id":"SWCON254",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON302",
-    "major_category":"최신기술콜로키움2"
+    "subject_id":"SWCON302",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON311",
-    "major_category":"게임그래픽프로그래밍"
+    "subject_id":"SWCON311",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON312",
-    "major_category":"게임인터랙티브테크놀로지"
+    "subject_id":"SWCON312",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON313",
-    "major_category":"가상\/증강현실이론및실습"
+    "subject_id":"SWCON313",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON331",
-    "major_category":"로봇프로그래밍"
+    "subject_id":"SWCON331",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON366",
-    "major_category":"3D데이터처리"
+    "subject_id":"SWCON366",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON370",
-    "major_category":"풀스택서비스프로그래밍"
+    "subject_id":"SWCON370",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON491",
-    "major_category":"인공지능과게임프로그래밍"
+    "subject_id":"SWCON491",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON492",
-    "major_category":"풀스택서비스네트워킹"
+    "subject_id":"SWCON492",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON493",
-    "major_category":"자연언어처리"
+    "subject_id":"SWCON493",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON496",
-    "major_category":"소프트웨어융합보안"
+    "subject_id":"SWCON496",
+    "major_category":"MAJOR_ELECTIVE"
   },
   {
     "entry_year":2025,
-    "subject_code":"SWCON495",
-    "major_category":"강화학습"
+    "subject_id":"SWCON495",
+    "major_category":"MAJOR_ELECTIVE"
   }
 ]

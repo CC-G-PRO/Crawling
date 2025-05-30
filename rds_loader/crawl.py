@@ -100,6 +100,17 @@ def main():
         database="sugang_prod",
         charset="utf8mb4"
     )
+    
+    cursor = conn.cursor()
+
+    # 🔻 기존 데이터 삭제
+    cursor.execute("SET FOREIGN_KEY_CHECKS=0")
+    cursor.execute("DELETE FROM lecture_times")
+    cursor.execute("DELETE FROM lectures")
+    cursor.execute("DELETE FROM curriculum")
+    cursor.execute("DELETE FROM subjects")
+    cursor.execute("SET FOREIGN_KEY_CHECKS=1")
+    conn.commit()
 
     print("Inserting subjects...")
     subject_code_to_id = insert_subjects(conn)
